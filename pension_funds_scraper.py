@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import csv
 
 # Replace with your actual API key and Custom Search Engine ID
-api_key = 'AIzaSyAUTb_hBhmR9bNtqxxTN9psv-v7_sf-lkI'
-search_engine_id = '2044e8772dfc247b4'  # Replace with your actual Search Engine ID
+api_key = ''
+search_engine_id = ''  # Replace with your actual Search Engine ID
 
 # Function to perform Google search and check for "emerging manager"
 def check_emerging_manager_program(fund_name):
